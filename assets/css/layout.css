@@ -1,0 +1,19 @@
+@import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+
+
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 100%;
+  width: 1400px;
+}
+
+section, article {
+  margin-bottom: 3em;
+}
